@@ -20,12 +20,25 @@ This project consists of a mock announcement/teaser trailer for the game. Hope y
 
 ### Complimentary Text
 
+Found in the pdf, you can also find the written part of the assignment [here](https://github.com/CrvptiK/OBSCURITY/blob/main/Final%20Assignment.md)
 
-Next to the pdf, you can also find the written part of the assignment [here](https://github.com/CrvptiK/OBSCURITY/blob/main/Final%20Assignment.md)
 
-<br/>
 
 ### Documentation
 
-
 Find the Documentation [here](https://github.com/CrvptiK/OBSCURITY/blob/main/Documentation.md)
+
+
+
+### Trailer
+
+Find the Trailer [here]()
+
+
+
+### Credits and Sources
+
+Credits to [Soundridemusic](https://www.youtube.com/channel/UCE-iHh4Kjqkcyx1WL-Nx4bQ) for background music
+[Toby Fox](https://www.youtube.com/channel/UC26hbdeqyPRl7VsnK1UhFPw) for the flowey laugh sample and character voice inspiration
+Other sources include many many many game and teaser trailers on YouTube (including but not limited to: Subnautica, Don't Starve, Professor Layton and Balatro) 
+StackOverflow, arrays of GitHub repositories and Reddit (yea I know, I know)
