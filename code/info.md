@@ -1,0 +1,3 @@
+## Info On Code
+
+Credit goes to MegaIng on for their answer on a StackOverflow post from 2021. I edited their code a little to fit my needs, but I did not go much further than the transparent background + corner img. Oh well...
