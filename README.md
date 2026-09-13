@@ -4,7 +4,7 @@
 ![TitleScreen OBSCURITY](https://github.com/CrvptiK/OBSCURITY/blob/main/assets/images/TitleScreenFull.JPEG)
 
 <br/>
-This is part of my Tech and Media Art final assignment. You can find most content found in the pdf on here as well, plus the demo code, and the progress documentation. You can also take a closer look at my used graphics and unused assets here.
+This is part of my Tech and Media Art final assignment. Most things you can find here are also found in the pdf. Additional content includes documentation and assets, as well as the rough (very rough) code, that exists for the demo (It ain't much).
 
 <br/>
 <br/>
