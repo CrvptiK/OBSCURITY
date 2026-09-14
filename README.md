@@ -42,3 +42,5 @@ Credits to [Soundridemusic](https://www.youtube.com/channel/UCE-iHh4Kjqkcyx1WL-N
 [Toby Fox](https://www.youtube.com/channel/UC26hbdeqyPRl7VsnK1UhFPw) for the flowey laugh sample and character voice inspiration
 Other sources include many many many game and teaser trailers on YouTube (including but not limited to: Subnautica, Don't Starve, Professor Layton and Balatro) 
 StackOverflow, arrays of GitHub repositories and Reddit (yea I know, I know)
+Sound Effect by <a href="https://pixabay.com/users/alex_jauk-16800354/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=236021">Alexander Jauk</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=236021">Pixabay</a>
+Sound Effect by <a href="https://pixabay.com/users/creatorshome-49707711/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=336343">CreatorsHome</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=336343">Pixabay</a>
