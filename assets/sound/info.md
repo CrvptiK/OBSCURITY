@@ -4,3 +4,4 @@
 The talk track was created by me, including recording and editing. <br>
 The laugh track is an edited version of 'Flowey', an Undertale character's laugh, right before the final battle. Credit goes to Toby Fox. The sound is used for non-profit, learning purposes. <br>
 Tensions Run High is composed and made available by Soundridemusic. Credit to the artist. <br>
+Camera Sounds by Alex_Jauk and Creatorshome on Pixabay.
