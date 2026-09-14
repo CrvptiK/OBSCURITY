@@ -7,6 +7,10 @@
 This is part of my Tech and Media Art final assignment. Most things you can find here are also found in the pdf. Additional content includes documentation and assets, as well as the rough (very rough) code, that exists for the demo (It ain't much).
 
 <br/>
+### Trailer
+
+Find the Trailer [here](https://youtu.be/57tzYEmRY94)
+
 <br/>
 
 ### Project Description
@@ -30,11 +34,7 @@ Find the Documentation [here](https://github.com/CrvptiK/OBSCURITY/blob/main/Doc
 
 
 
-### Trailer
 
-Find the Trailer [here](https://youtu.be/57tzYEmRY94)
-
-<br/>
 
 ### Credits and Sources
 
