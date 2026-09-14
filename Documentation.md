@@ -40,7 +40,7 @@ but which haunted my entire editing process) it got on my nerve a lot.
 On the other hand, editing is made very simple with CapCut, in contrast to using
 DavinciResolve, which I only used for tiny adjustments in colour and sound. This is most
 likely due to the fact I am more familiar with the former, but I spent several hours editing,
-even though I am familiar with the program.
+even though I am familiar with it.
 
 
 ### Some Screenshots taken during “production”.
